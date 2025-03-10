@@ -49,5 +49,5 @@ Feel free to open issues or submit pull requests for any improvements.
 ## License
 This project is open source and available under the MIT License.
 
-## Author
-- Bahadir Ciloglu
+## Video
+- https://share.synthesia.io/837da0c2-2768-4c2a-9650-29273cf9d48a
